@@ -1,0 +1,9 @@
+
+.vending-machine-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.vending-machine-items a {
+    margin-bottom: 8px; /* Adjust margin as needed */
+}
